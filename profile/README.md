@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./assets/tevrozo green logo.svg" alt="tevrozo-logo" width="100"><br />
-  Tevrozo 
+  <b>Tevrozo</b>
   
 </p>
 
