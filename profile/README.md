@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/tevrozo green logo.svg" alt="tevrozo-logo" width="200">
+  <img src="./assets/tevrozo green logo.svg" alt="tevrozo-logo" width="100"><br />
+  Tevrozo 
+  
 </p>
 
 # Welcome to Tevrozo :wave:
